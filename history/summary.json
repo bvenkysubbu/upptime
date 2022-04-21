@@ -4,17 +4,17 @@
     "url": "https://cloud.tymly.in/status/1041",
     "icon": "https://favicons.githubusercontent.com/cloud.tymly.in",
     "slug": "adarsh-vihar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6201,
-    "timeDay": 2795,
-    "timeWeek": 7034,
-    "timeMonth": 6336,
-    "timeYear": 6468,
+    "time": 6193,
+    "timeDay": 2780,
+    "timeWeek": 6763,
+    "timeMonth": 6269,
+    "timeYear": 6462,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 57,
-    "timeWeek": 66,
-    "timeMonth": 69,
+    "timeDay": 107,
+    "timeWeek": 69,
+    "timeMonth": 70,
     "timeYear": 80,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 218,
+    "time": 215,
+    "timeDay": 79,
     "timeWeek": 240,
     "timeMonth": 198,
-    "timeYear": 227,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 382,
-    "timeWeek": 333,
+    "timeDay": 226,
+    "timeWeek": 353,
     "timeMonth": 330,
     "timeYear": 376,
     "dailyMinutesDown": {}
@@ -101,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 13,
-    "timeWeek": 14,
+    "timeDay": 46,
+    "timeWeek": 17,
     "timeMonth": 14,
     "timeYear": 22,
     "dailyMinutesDown": {}
@@ -113,7 +113,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "34.25%",
+    "uptime": "34.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 1247,
+      "2022-04-21": 72,
+      "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
@@ -487,8 +488,7 @@
       "2021-04-25": 1440,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
-      "2021-04-22": 1440,
-      "2021-04-21": 1440
+      "2021-04-22": 1440
     }
   },
   {
@@ -503,8 +503,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 56,
-    "timeWeek": 49,
+    "timeDay": 67,
+    "timeWeek": 54,
     "timeMonth": 51,
     "timeYear": 62,
     "dailyMinutesDown": {}
