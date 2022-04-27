@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6287,
-    "timeDay": 11539,
-    "timeWeek": 8842,
-    "timeMonth": 7494,
-    "timeYear": 6583,
+    "timeDay": 4117,
+    "timeWeek": 8951,
+    "timeMonth": 7510,
+    "timeYear": 6586,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 70,
-    "timeWeek": 70,
+    "timeDay": 63,
+    "timeWeek": 71,
     "timeMonth": 68,
     "timeYear": 80,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 268,
-    "timeWeek": 239,
-    "timeMonth": 214,
+    "timeDay": 236,
+    "timeWeek": 244,
+    "timeMonth": 216,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 389,
-    "timeWeek": 315,
+    "timeDay": 364,
+    "timeWeek": 312,
     "timeMonth": 327,
-    "timeYear": 374,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 21,
-    "timeDay": 15,
+    "timeDay": 11,
     "timeWeek": 18,
     "timeMonth": 14,
     "timeYear": 22,
@@ -113,7 +113,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "33.96%",
+    "uptime": "33.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-26": 345,
+      "2022-04-27": 122,
+      "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -487,8 +488,7 @@
       "2021-05-01": 1440,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
-      "2021-04-28": 1440,
-      "2021-04-27": 1440
+      "2021-04-28": 1440
     }
   },
   {
@@ -504,7 +504,7 @@
     "uptimeYear": "100.00%",
     "time": 62,
     "timeDay": 48,
-    "timeWeek": 52,
+    "timeWeek": 51,
     "timeMonth": 50,
     "timeYear": 62,
     "dailyMinutesDown": {}
